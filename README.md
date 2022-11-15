@@ -1,14 +1,14 @@
 # Bikepe
-Entities :-
+<h3>Entities :-</h3>
 
-1.) User
-2.) Colors 
-3.) BikeCategory 
-4.) BikeCategoryColors 
-5.) Bike 
-6.) Purchases
+1.) User <br>
+2.) Colors <br>
+3.) BikeCategory <br>
+4.) BikeCategoryColors <br>
+5.) Bike <br>
+6.) Purchases<br>
 
-Database Models :-
+<h3>Database Models :-</h3>
 
 Colors:
 
@@ -40,7 +40,7 @@ Purchases
     bikeInfo : details of the bike
 
 
-API Details :- 
+<h3>API Details :- </h3>
 
 Register -
 
@@ -116,3 +116,8 @@ Purchases -
                             'price': 180000.0,
                             'bike_type': 'Road Bikes',
                             'warranty_left': 456}]}
+
+<h3> Instructions to run </h3>
+1.) cd into the bikepe folder - cd bikepe. <br>
+2.) run python manage.py migrate in the terminal.<br>
+3.) run python manage.py runserver in the terminal to run the server.<br>
