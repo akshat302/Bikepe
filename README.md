@@ -118,6 +118,7 @@ Purchases -
                             'warranty_left': 456}]}
 
 <h3> Instructions to run </h3>
-1.) cd into the bikepe folder - cd bikepe. <br>
-2.) run python manage.py migrate in the terminal.<br>
-3.) run python manage.py runserver in the terminal to run the server.<br>
+1.) clone the github repo - git clone https://github.com/akshat302/Bikepe.git
+2.) cd into the bikepe folder - cd bikepe. <br>
+3.) run python manage.py migrate in the terminal.<br>
+4.) run python manage.py runserver in the terminal to run the server.<br>
